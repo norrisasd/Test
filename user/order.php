@@ -107,7 +107,7 @@
         </div>
     </header>
     <!-- end header -->
-    <!-- WEw-->
+    <!-- WEwsdasdasdasdasddddasdasdasd-->
 <!-- content -->
 <div class ="d-block justify-content-center" style="padding-top: 10rem;background-image: url('../images/bg.jpg');">
     <?php
@@ -177,7 +177,7 @@
             </div>
         </div>
     </fooetr>
-    <!-- end footer -->
+    <!-- end footerss -->
     </div>
     </div>
     <div class="overlay"></div>
