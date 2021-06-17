@@ -107,6 +107,7 @@
         </div>
     </header>
     <!-- end header -->
+    <!-- WEw-->
 <!-- content -->
 <div class ="d-block justify-content-center" style="padding-top: 10rem;background-image: url('../images/bg.jpg');">
     <?php
